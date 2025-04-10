@@ -18,7 +18,7 @@ MySQL and Knex.js for data base
 
 ## Screen Shots
 
-![](./md_assets/gif-1.gif)
+![](./md_assets/general.gif)
 
 ![](./md_assets/comment.gif)
 
