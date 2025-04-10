@@ -24,8 +24,6 @@ MySQL and Knex.js for data base
 
 ## Mobile view
 
-![](./md_assets/mobile-1.png)
-
 ![](./md_assets/mobile-2.png)
 
 ![](./md_assets/mobile-3.png)
